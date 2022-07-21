@@ -4,7 +4,7 @@ This Repository contains Natural Language Processing Programs
 1. Tokenization
 2. Word Frequency Count
 3. Stop Words Removal
-4. sTEMMING
+4. Stemming
 5. Lemmatization
 6. N-Gram Model
 7. Word Similarity
